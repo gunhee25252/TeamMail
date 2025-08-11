@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NewMail",
+			"Path": "..\\Source\\NewMail.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NewMailEditor",
+			"Path": "..\\Source\\NewMailEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

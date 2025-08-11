@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NewMail.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NewMail.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NewMailEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{C34A53DE-7A2E-391F-9292-A84444E41B18}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Source\NewMail">
+      <UniqueIdentifier>{A3F6F914-F5CB-3A8D-830A-E95212D944B5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NewMail\NewMail.Build.cs">
+      <Filter>Source\NewMail</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NewMail\NewMail.cpp">
+      <Filter>Source\NewMail</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NewMail\NewMail.h">
+      <Filter>Source\NewMail</Filter>
+    </ClInclude>
+    <Filter Include="Source\NewMail\Private">
+      <UniqueIdentifier>{662397D9-4B7D-3834-BB40-F0A8BB9535A8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NewMail\Private\ImageDownloaderComponent.cpp">
+      <Filter>Source\NewMail\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NewMail\Private\ImageDownloaderLibrary.cpp">
+      <Filter>Source\NewMail\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\NewMail\Public">
+      <UniqueIdentifier>{1B642A61-9F2B-3FE1-B3DA-9C6EC7834656}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\NewMail\Public\ImageDownloaderComponent.h">
+      <Filter>Source\NewMail\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NewMail\Public\ImageDownloaderLibrary.h">
+      <Filter>Source\NewMail\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NewMail.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\x64\NewMailEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewMail\ImageDownloaderComponent.gen.cpp.obj"
+"C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewMail\ImageDownloaderLibrary.gen.cpp.obj"
+"C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewMail\NewMail.init.gen.cpp.obj"
+"C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewMail\NewMail.cpp.obj"
+"C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewMail\ImageDownloaderComponent.cpp.obj"
+"C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewMail\ImageDownloaderLibrary.cpp.obj"
+"C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewMail\Default.rc2.res"
+/OUT:"C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\x64\UnrealEditor\Development\NewMail\UnrealEditor-NewMail.lib"
