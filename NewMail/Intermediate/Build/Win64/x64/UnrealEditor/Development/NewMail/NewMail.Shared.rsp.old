@@ -285,6 +285,12 @@
 /I "C:\NCA28\TP\TeamMail\NewMail\Intermediate\Build\Win64\UnrealEditor\Inc\NewMail\UHT"
 /I "C:\NCA28\TP\TeamMail\NewMail\Source"
 /I "C:\NCA28\TP\TeamMail\NewMail\Source\NewMail\Public"
+/I "..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayAbilities\UHT"
+/I "..\Plugins\Runtime\GameplayAbilities\Source"
+/I "..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public"
+/I "..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UnrealEditor\Inc\DataRegistry\UHT"
+/I "..\Plugins\Runtime\DataRegistry\Source"
+/I "..\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public"
 /external:W0
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"

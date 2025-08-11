@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\nca28\\tp\\teammail\\newmail\\source\\newmail\\private\\imagedownloadercomponent.cpp",
+        "Source": "c:\\users\\nca 47\\desktop\\git\\teammail\\newmail\\source\\newmail\\private\\imagedownloadercomponent.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\x64\\newmaileditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "PCH": "c:\\users\\nca 47\\desktop\\git\\teammail\\newmail\\intermediate\\build\\win64\\x64\\newmaileditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\newmail\\definitions.newmail.h",
-            "c:\\nca28\\tp\\teammail\\newmail\\source\\newmail\\public\\imagedownloadercomponent.h",
-            "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\unrealeditor\\inc\\newmail\\uht\\imagedownloadercomponent.generated.h",
+            "c:\\users\\nca 47\\desktop\\git\\teammail\\newmail\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\newmail\\definitions.newmail.h",
+            "c:\\users\\nca 47\\desktop\\git\\teammail\\newmail\\source\\newmail\\public\\imagedownloadercomponent.h",
+            "c:\\users\\nca 47\\desktop\\git\\teammail\\newmail\\intermediate\\build\\win64\\unrealeditor\\inc\\newmail\\uht\\imagedownloadercomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\http.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
@@ -16,10 +16,10 @@
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
-            "c:\\nca28\\tp\\teammail\\newmail\\source\\newmail\\public\\imagedownloaderlibrary.h",
+            "c:\\users\\nca 47\\desktop\\git\\teammail\\newmail\\source\\newmail\\public\\imagedownloaderlibrary.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\imagewrapper\\public\\iimagewrapper.h",
             "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\imagewrapper\\public\\iimagewrappermodule.h",
-            "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\unrealeditor\\inc\\newmail\\uht\\imagedownloaderlibrary.generated.h"
+            "c:\\users\\nca 47\\desktop\\git\\teammail\\newmail\\intermediate\\build\\win64\\unrealeditor\\inc\\newmail\\uht\\imagedownloaderlibrary.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
