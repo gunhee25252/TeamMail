@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\unrealeditor\\inc\\newmail\\uht\\imagedownloadercomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\x64\\newmaileditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\newmail\\definitions.newmail.h",
+            "c:\\nca28\\tp\\teammail\\newmail\\source\\newmail\\public\\imagedownloadercomponent.h",
+            "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\unrealeditor\\inc\\newmail\\uht\\imagedownloadercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

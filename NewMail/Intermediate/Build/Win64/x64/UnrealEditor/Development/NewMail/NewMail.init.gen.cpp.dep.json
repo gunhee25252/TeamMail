@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\unrealeditor\\inc\\newmail\\uht\\newmail.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\x64\\newmaileditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\nca28\\tp\\teammail\\newmail\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\newmail\\definitions.newmail.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

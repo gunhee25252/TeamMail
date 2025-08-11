@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\NCA28\\TP\\TeamMail\\NewMail\\Source\\NewMail\\NewMail.Build.cs",
+		"C:\\NCA28\\TP\\TeamMail\\NewMail\\Source\\NewMail.Target.cs",
+		"C:\\NCA28\\TP\\TeamMail\\NewMail\\Source\\NewMailEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
