@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeNewMail_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x84E9942F,
+				0xE612553E,
 				0xDBCD501A,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -29,5 +29,5 @@ void EmptyLinkFunctionForGeneratedCodeNewMail_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_NewMail.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_NewMail(Z_Construct_UPackage__Script_NewMail, TEXT("/Script/NewMail"), Z_Registration_Info_UPackage__Script_NewMail, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x84E9942F, 0xDBCD501A));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_NewMail(Z_Construct_UPackage__Script_NewMail, TEXT("/Script/NewMail"), Z_Registration_Info_UPackage__Script_NewMail, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xE612553E, 0xDBCD501A));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
