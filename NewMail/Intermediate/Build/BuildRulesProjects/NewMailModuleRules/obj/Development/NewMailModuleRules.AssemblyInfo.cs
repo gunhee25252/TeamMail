@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewMailModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7017d5ec201c54056c6104bfab115afb662d36ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1f07860bc6f3ba1e3663f529bf400f0482d1bce")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewMailModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewMailModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

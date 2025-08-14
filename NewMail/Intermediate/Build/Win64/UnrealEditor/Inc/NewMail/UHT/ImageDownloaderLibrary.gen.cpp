@@ -152,14 +152,14 @@ UImageDownloaderLibrary::~UImageDownloaderLibrary() {}
 // End Class UImageDownloaderLibrary
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_NewMail_Source_NewMail_Public_ImageDownloaderLibrary_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_NCA_47_Desktop_Git_TeamMail_NewMail_Source_NewMail_Public_ImageDownloaderLibrary_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UImageDownloaderLibrary, UImageDownloaderLibrary::StaticClass, TEXT("UImageDownloaderLibrary"), &Z_Registration_Info_UClass_UImageDownloaderLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UImageDownloaderLibrary), 3221477277U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_NewMail_Source_NewMail_Public_ImageDownloaderLibrary_h_3086136004(TEXT("/Script/NewMail"),
-	Z_CompiledInDeferFile_FID_NewMail_Source_NewMail_Public_ImageDownloaderLibrary_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_NewMail_Source_NewMail_Public_ImageDownloaderLibrary_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_NCA_47_Desktop_Git_TeamMail_NewMail_Source_NewMail_Public_ImageDownloaderLibrary_h_3086136004(TEXT("/Script/NewMail"),
+	Z_CompiledInDeferFile_FID_Users_NCA_47_Desktop_Git_TeamMail_NewMail_Source_NewMail_Public_ImageDownloaderLibrary_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_NCA_47_Desktop_Git_TeamMail_NewMail_Source_NewMail_Public_ImageDownloaderLibrary_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
